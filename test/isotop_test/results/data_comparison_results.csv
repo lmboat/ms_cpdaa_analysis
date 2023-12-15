@@ -1,0 +1,56 @@
+Similarity Protein Matrix,Experiment-1,Experiment-2
+Experiment-1,1110.0,648.0
+Experiment-2,648.0,1249.0
+
+Difference Protein Matrix,Experiment-1,Experiment-2
+Experiment-1,0.0,462.0
+Experiment-2,601.0,0.0
+
+Similarity Amino Acid Matrix,Experiment-1,Experiment-2
+Experiment-1,1681.0,750.0
+Experiment-2,750.0,2032.0
+
+Difference Amino Acid Matrix,Experiment-1,Experiment-2
+Experiment-1,0.0,931.0
+Experiment-2,1282.0,0.0
+
+Similarity Peptide Matrix,Experiment-1,Experiment-2
+Experiment-1,1976.0,850.0
+Experiment-2,850.0,2545.0
+
+Difference Peptide Matrix,Experiment-1,Experiment-2
+Experiment-1,0.0,1126.0
+Experiment-2,1695.0,0.0
+
+Distinct Labeled Proteins,Experiment-1,Experiment-2
+,462,601
+
+Distinct Labeled Amino Acids,Experiment-1,Experiment-2
+,931,1282
+
+Distinct Labeled Peptides,Experiment-1,Experiment-2
+,1126,1695
+
+Total Labeled Proteins,Total Labeled Amino Acids,Total Labeled Peptides
+1711,2963,3671
+
+Protein Counts,Exp1_Replicate-2,Exp1_Replicate-1,Exp2-Replicate-1,Exp2-Replicate-2
+,1109,9,1248,18
+Protein Avgs,Experiment-1,Experiment-2
+,559,633
+Protein Stdevs,Experiment-1,Experiment-2
+,777.8174593052023,869.7413408594534
+
+Identifier Counts,Exp1_Replicate-2,Exp1_Replicate-1,Exp2-Replicate-1,Exp2-Replicate-2
+,1680,9,2030,22
+Identifier Avgs,Experiment-1,Experiment-2
+,844.5,1026
+Identifier Stdevs,Experiment-1,Experiment-2
+,1181.575431362721,1419.8704166225875
+
+Peptide Counts,Exp1_Replicate-2,Exp1_Replicate-1,Exp2-Replicate-1,Exp2-Replicate-2
+,1974,10,2543,23
+Peptide Avgs,Experiment-1,Experiment-2
+,992,1283
+Peptide Stdevs,Experiment-1,Experiment-2
+,1388.7577182503794,1781.9090885900998
