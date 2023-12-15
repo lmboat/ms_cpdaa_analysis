@@ -12,7 +12,7 @@ About: Processing pipeline for aggregating and analyzing outputs from various ma
 4. Move any output folders into the data folder
 
 <p align="center">
-  <img width="460" height="250" src="https://github.com/lmboat/cpdaadb/assets/35751646/7c1c9c21-31b8-481c-a448-5651c6c9030c">
+  <img src="https://github.com/lmboat/cpdaadb/assets/35751646/7c1c9c21-31b8-481c-a448-5651c6c9030c">
 </p>
 
 
@@ -22,7 +22,7 @@ About: Processing pipeline for aggregating and analyzing outputs from various ma
 python3 231101_ms_cpdaa_process.py -h
 ```
 <p align="center">
-  <img width="460" height="250" src="https://github.com/lmboat/cpdaadb/assets/35751646/68c3c416-b213-4a51-82c7-317a0df17af6">
+  <img src="https://github.com/lmboat/cpdaadb/assets/35751646/68c3c416-b213-4a51-82c7-317a0df17af6">
 </p>
 
 ### Identification Experiments without a Probe Mass
