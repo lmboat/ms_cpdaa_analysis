@@ -1,4 +1,4 @@
-# MS CpDAA Analysis: Mass Spectrometry-based Chemoproteomics Detected Amino Acids Analysis Suite
+# MS Analysis: Mass Spectrometry-based Chemoproteomics Detected Amino Acids Analysis Suite
 
 The MS CpDAA Analysis Suite was created and developed by Lisa Boatner. 
 
