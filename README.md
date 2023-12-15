@@ -40,32 +40,41 @@ About: Processing pipeline for aggregating and analyzing outputs from various ma
 python3 231101_ms_cpdaa_process.py -h
 ```
 
-### Identification Experiments without a Probe Mass
+## Test Usage
+```python
+python3 231101_ms_cpdaa_process.py -exp 'isotop' -lpm '521.3074' -hpm '527.3213' -dbv '20'
+```
+
+## Identification Experiments Usage
+
+### Without a Probe Mass
 ```python
 python3 231101_ms_cpdaa_process.py -pm '0'
 ```
 
-### Identification Experiments with a Probe Mass
+### With a Probe Mass
 ```python
 python3 231101_ms_cpdaa_process.py -pm 'your_probe_mass'
 ```
 
-### Label Free Identification Experiments with a Probe Mass
+### Label Free with a Probe Mass
 ```python
 python3 231101_ms_cpdaa_process.py -exp 'lfq' -pm 'your_probe_mass'
 ```
 
-### N-terminal Identification Experiments with a Probe Mass
+### N-terminal with a Probe Mass
 ```python
 python3 231101_ms_cpdaa_process.py -aa 'N-term' -pm 'your_probe_mass'
 ```
 
-### Quantitative Experiments (ex. isotop, silac, iodiniation) 
+## Quantitative Experiments Usage
+
+### competitive-ABPP, isoTOP-ABPP, silac, iodiniation
 ```python
 python3 231101_ms_cpdaa_process.py -aa 'C;K;H' -exp 'your_quant_experiment_type' -lpm 'your_light_probe_mass' -hpm 'your_heavy_probe_mass' 
 ```
 
-## Additional Notes
+# Additional Notes
 * -aa : add any or all amino acids (ex. 'A;C;D;E;F;G;H;I:K;L;M;N;P;Q;R;S;T;V;W;Y')
 * -rr : ratios listed are not Log2Ratios (default False)
 * -mid : separate multiplexed peptides into separate enteries from ProteinID_AA#1_AA#2 -> ProteinID_AA#1 and ProteinID_AA#2
@@ -75,5 +84,5 @@ python3 231101_ms_cpdaa_process.py -aa 'C;K;H' -exp 'your_quant_experiment_type'
   <img src="https://github.com/lmboat/cpdaadb/assets/35751646/68c3c416-b213-4a51-82c7-317a0df17af6">
 </p>
 
-## Contact
+# Contact
 Lisa Boatner - lisaboatner@g.ucla.edu
