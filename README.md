@@ -65,6 +65,11 @@ python3 231101_ms_cpdaa_process.py -aa 'N-term' -pm 'your_probe_mass'
 python3 231101_ms_cpdaa_process.py -aa 'C;K;H' -exp 'your_quant_experiment_type' -lpm 'your_light_probe_mass' -hpm 'your_heavy_probe_mass' 
 ```
 
+## Test Usage
+```python
+python3 231101_ms_cpdaa_process.py -exp 'isotop' -lpm '521.3074' -hpm '527.3213' -dbv '20'
+```
+
 ## Additional Notes
 * -aa : add any or all amino acids (ex. 'A;C;D;E;F;G;H;I:K;L;M;N;P;Q;R;S;T;V;W;Y')
 * -rr : ratios listed are not Log2Ratios (default False)
