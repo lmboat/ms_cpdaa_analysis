@@ -2,7 +2,7 @@
 
 The MS CpDAA Analysis Suite was created and developed by Lisa Boatner. 
 
-About: Processing pipeline for aggregating and analyzing outputs from various mass-spectromtery experiments (ex. ABPP, Silac, TMT, Iodination, Label-Free, N-terminal), software packages (ex. FragPipe, MaxQuant, Skyline, ProLuCID), and  replicates. 
+About: Processing pipeline for aggregating and analyzing outputs from various mass-spectromtery experiments (ex. ABPP, Silac, TMT, Iodination, Label-Free, N-terminal, DIA), software packages (ex. FragPipe, MaxQuant, Skyline, ProLuCID), and  replicates. 
 
 ## Output
 1. Sites of labeling mapped to amino acid positions in a reference protein sequence
@@ -89,7 +89,7 @@ python3 231101_ms_cpdaa_process.py -aa 'C;K;H' -exp 'your_quant_experiment_type'
 2. Yan T, Desai HS, Boatner LM, Yen SL, Cao J, Palafox MF, Jami-Alahmadi Y, Backus KM. SP3-FAIMS Chemoproteomics for High-Coverage Profiling of the Human Cysteinome*. Chembiochem. 2021 May 14;22(10):1841-1851. doi: 10.1002/cbic.202000870. Epub 2021 Feb 18. PMID: 33442901; PMCID: PMC8942723.
 3. Tang KC, Cao J, Boatner LM, Li L, Farhi J, Houk KN, Spangle J, Backus KM, Raj M. Tunable Amine-Reactive Electrophiles for Selective Profiling of Lysine. Angew Chem Int Ed Engl. 2022 Jan 26;61(5):e202112107. doi: 10.1002/anie.202112107. Epub 2021 Dec 16. PMID: 34762358; PMCID: PMC10111338.
 4. Yan T, Julio AR, Villanueva M, Jones AE, Ball AB, Boatner LM, Turmon AC, Nguyễn KB, Yen SL, Desai HS, Divakaruni AS, Backus KM. Proximity-labeling chemoproteomics defines the subcellular cysteinome and inflammation-responsive mitochondrial redoxome. Cell Chem Biol. 2023 Jul 20;30(7):811-827.e7. doi: 10.1016/j.chembiol.2023.06.008. Epub 2023 Jul 6. PMID: 37419112; PMCID: PMC10510412.
-5. Castellón JO, Ofori S, Armenta E, Burton N, Boatner LM, Takayoshi EE, Faragalla M, Zhou A, Tran K, Shek J, Yan T, Desai HS, Backus KM. Chemoproteomics identifies proteoform-selective caspase-2 inhibitors. bioRxiv [Preprint]. 2023 Oct 26:2023.10.25.563785. doi: 10.1101/2023.10.25.563785. PMID: 37961563; PMCID: PMC10634807.
+5. Castellón JO, Ofori S, Burton NR, Julio AR, Turmon AC, Armenta E, Sandoval C, Boatner LM, Takayoshi EE, Faragalla M, Taylor C, Zhou AL, Tran K, Shek J, Yan T, Desai HS, Fregoso OI, Damoiseaux R, Backus KM. Chemoproteomics Identifies State-Dependent and Proteoform-Selective Caspase-2 Inhibitors. J Am Chem Soc. 2024 Jun 5;146(22):14972-14988. doi: 10.1021/jacs.3c12240. Epub 2024 May 24. PMID: 38787738.
 
 ## Contact
 Lisa Boatner - lisaboatner@g.ucla.edu
