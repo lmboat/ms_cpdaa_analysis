@@ -90,6 +90,8 @@ python3 231101_ms_cpdaa_process.py -aa 'C;K;H' -exp 'your_quant_experiment_type'
 3. Tang KC, Cao J, Boatner LM, Li L, Farhi J, Houk KN, Spangle J, Backus KM, Raj M. Tunable Amine-Reactive Electrophiles for Selective Profiling of Lysine. Angew Chem Int Ed Engl. 2022 Jan 26;61(5):e202112107. doi: 10.1002/anie.202112107. Epub 2021 Dec 16. PMID: 34762358; PMCID: PMC10111338.
 4. Yan T, Julio AR, Villanueva M, Jones AE, Ball AB, Boatner LM, Turmon AC, Nguyễn KB, Yen SL, Desai HS, Divakaruni AS, Backus KM. Proximity-labeling chemoproteomics defines the subcellular cysteinome and inflammation-responsive mitochondrial redoxome. Cell Chem Biol. 2023 Jul 20;30(7):811-827.e7. doi: 10.1016/j.chembiol.2023.06.008. Epub 2023 Jul 6. PMID: 37419112; PMCID: PMC10510412.
 5. Castellón JO, Ofori S, Burton NR, Julio AR, Turmon AC, Armenta E, Sandoval C, Boatner LM, Takayoshi EE, Faragalla M, Taylor C, Zhou AL, Tran K, Shek J, Yan T, Desai HS, Fregoso OI, Damoiseaux R, Backus KM. Chemoproteomics Identifies State-Dependent and Proteoform-Selective Caspase-2 Inhibitors. J Am Chem Soc. 2024 Jun 5;146(22):14972-14988. doi: 10.1021/jacs.3c12240. Epub 2024 May 24. PMID: 38787738.
+6. Ofori S, Desai HS, Shikwana F, Boatner LM, Dominguez Iii ER, Castellón JO, Backus KM. Generating cysteine-trypsin cleavage sites with 2-chloroacetamidine capping. Chem Commun (Camb). 2024 Aug 15;60(67):8856-8859. doi: 10.1039/d4cc01583e. PMID: 39081146.
+7. Takechi S, Ngo C, Burton N, Villanueva M, Boatner L, Yu F, et al. Silyl Ether Enables High Coverage Chemoproteomic Interaction Site Mapping. ChemRxiv. 2024; doi:10.26434/chemrxiv-2024-21r7b This content is a preprint and has not been peer-reviewed.
 
 ## Contact
-Lisa Boatner - lisaboatner@g.ucla.edu
+Lisa Boatner - lisamboatner@gmail.com
