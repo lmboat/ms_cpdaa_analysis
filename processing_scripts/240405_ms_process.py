@@ -127,7 +127,7 @@ class Game:
       self.run_game()
       self.finish_game()
     else:
-      print("I don't know what you want from me. Email lisaboatner@ucla.edu - I am a weeny, help me.")
+      print("I don't know what you want from me. Email lisamboatner@gmail.com - I am a weeny, help me.")
 
   # Setup, Run and Finish Game
  
