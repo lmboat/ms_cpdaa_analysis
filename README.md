@@ -37,41 +37,41 @@ About: Processing pipeline for aggregating and analyzing outputs from various ma
 ## Usage
 
 ```python
-python3 231101_ms_cpdaa_process.py -h
+python3 scripts/ms_cpdaa.py -h
 ```
 
 ## Test Usage
 ```python
-python3 231101_ms_cpdaa_process.py -exp 'isotop' -lpm '521.3074' -hpm '527.3213' -dbv '20'
+python3 scripts/ms_cpdaa.py.py -exp 'isotop' -lpm '521.3074' -hpm '527.3213' -dbv '20'
 ```
 
 ## Identification Experiments Usage
 
 ### Without a Probe Mass
 ```python
-python3 231101_ms_cpdaa_process.py -pm '0'
+python3 scripts/ms_cpdaa.py.py -pm '0'
 ```
 
 ### With a Probe Mass
 ```python
-python3 231101_ms_cpdaa_process.py -pm 'your_probe_mass'
+python3 scripts/ms_cpdaa.py -pm 'your_probe_mass'
 ```
 
 ### Label Free with a Probe Mass
 ```python
-python3 231101_ms_cpdaa_process.py -exp 'lfq' -pm 'your_probe_mass'
+python3 scripts/ms_cpdaa.py -exp 'lfq' -pm 'your_probe_mass'
 ```
 
 ### N-terminal with a Probe Mass
 ```python
-python3 231101_ms_cpdaa_process.py -aa 'N-term' -pm 'your_probe_mass'
+python3 scripts/ms_cpdaa.py -aa 'N-term' -pm 'your_probe_mass'
 ```
 
 ## Quantitative Experiments Usage
 
 ### competitive-ABPP, isoTOP-ABPP, silac, iodiniation
 ```python
-python3 231101_ms_cpdaa_process.py -aa 'C;K;H' -exp 'your_quant_experiment_type' -lpm 'your_light_probe_mass' -hpm 'your_heavy_probe_mass' 
+python3 scripts/ms_cpdaa.py -aa 'C;K;H' -exp 'your_quant_experiment_type' -lpm 'your_light_probe_mass' -hpm 'your_heavy_probe_mass' 
 ```
 
 ## Additional Notes
