@@ -1,8 +1,6 @@
 # MS CpDAA: Mass Spectrometry-based Chemoproteomics Detected Amino Acids Analysis Suite
 
-The MS CpDAA Analysis Suite was created and developed by Lisa Boatner. 
-
-About: Processing pipeline for aggregating and analyzing outputs from various mass-spectromtery experiments (ex. ABPP, Silac, TMT, Iodination, Label-Free, N-terminal, DIA), software packages (ex. FragPipe, MaxQuant, Skyline, ProLuCID), and  replicates. 
+Processing pipeline for aggregating and analyzing outputs from various mass-spectromtery experiments (ex. ABPP, Silac, TMT, Iodination, Label-Free, N-terminal, DIA), software packages (ex. FragPipe, MaxQuant, Skyline, ProLuCID), and  replicates. 
 
 ## Output
 1. Sites of labeling mapped to amino acid positions in a reference protein sequence
@@ -33,6 +31,11 @@ About: Processing pipeline for aggregating and analyzing outputs from various ma
     - Replicate-3
   ... 
   - Experiment-50  
+
+## Installation
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 
